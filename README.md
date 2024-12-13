@@ -11,3 +11,6 @@ git subtree pull --prefix src/main/protos/ protocol master
 
 ## Run the included *.sh files to initialize the dependencies
 
+# Note❕
+To reduce the size of the generated JavaScript bundle, unnecessary parts of the Java-Tron protocol definition were removed.
+
